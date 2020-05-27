@@ -328,7 +328,7 @@ class GitHubApi {
 	private _token: string | undefined;
 	get token() {
 		if (this._token === undefined) {
-			this._token = '<your-token-here>';
+			this._token = '68d712eddbd319cbe8bb9e42edd54f3f6ed9aa35';
 		}
 		return this._token;
 	}

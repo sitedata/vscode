@@ -12,6 +12,7 @@
     "onDebug"
   ],
   "main": "./out/extension",
+  "browser": "./dist/extension",
   "engines": {
     "vscode": "^1.25.0"
   },
